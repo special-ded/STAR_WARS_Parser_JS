@@ -1,0 +1,25 @@
+* {
+  background-color: rgb(30, 28, 28);
+  color: rgb(82, 211, 35);
+  font-size: 18px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+}
+
+.span {
+  display: block;
+  width: 230px;
+  margin: 100px auto 10px auto;
+}
+
+.container,
+.planets__table,
+.residents__table {
+  max-width: 100%;
+  margin: 0 auto;
+}
